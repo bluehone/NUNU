@@ -150,7 +150,7 @@
 .sub_panel h2{font-size:28px; font-weight:400; color:#fff; line-height:100px}
 .sub_panel p{font-size:16px; color:#fff; line-height:100px; text-align:right}
 
-.sub_section{margin:50px 0;}
+/* .sub_section{margin:50px 0;} */
 .subnav_section{border-top:1px solid #d5d5d5; border-bottom:1px solid #d5d5d5; background:#f3f3f3}
 .sub_path>li{position:relative; float:left; border-right:1px solid #d5d5d5}
 .sub_path>li:first-child{border-left:1px solid #d5d5d5}
